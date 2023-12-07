@@ -75,5 +75,3 @@
 3. ~~An optional function to make the bot play a game or stream, etc. with a custom name~~ → Added!
 4. An optional function if server has boosts it will change server banner
 
-
-
